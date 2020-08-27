@@ -3,4 +3,5 @@ this is line 2
 this is line 3
 this is line 4
 
+//THIS IS ORIGINAL TEXT THAT SHOULD STAY THAT WAY
 //THIS IS ORIGINAL but you can merge it
